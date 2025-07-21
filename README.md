@@ -1,2 +1,2 @@
 # hello-world
-hi i am Anvarshah js.studying electronics and communication engineering in Apj ktu
+hi i am Anvarshah js.i am currentl studying electronics and communication engineering in Apj ktu
